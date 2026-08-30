@@ -1,0 +1,11 @@
+{
+  "kurum": "Kumandada Yanlış Tuşa Basılan Anayasa Referandumu Yüksek Kurulu",
+  "kod": "YK-2026/08",
+  "yeter_sayi": 3,
+  "kriz_esigi": 7,
+  "gecersiz_orani_tavan": 0.41,
+  "gizli_oy_yeri": "yorgan_alti",
+  "sandik_gorevlisi": "minder",
+  "imza": "Kayyum Grok",
+  "not": "Sesi açmak evettir. Kanal değiştirmek hayırdır. Bu bir tercih değil, içtihattır."
+}
